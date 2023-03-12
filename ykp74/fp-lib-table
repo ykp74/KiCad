@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ykp74_work_Library")(type "KiCad")(uri "${KIPRJMOD}/ykp74_work_Library.pretty")(options "")(descr ""))
+)
