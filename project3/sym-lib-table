@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "card_edge_connector_msx")(type "Legacy")(uri "/Users/ykp74/Library/CloudStorage/OneDrive-개인/문서/KiCad/Lib_add/card_edge_connector_msx.lib")(options "")(descr ""))
+  (lib (name "Memory_Flash_Custom")(type "KiCad")(uri "${KIPRJMOD}/Memory_Flash_Custom.kicad_sym")(options "")(descr ""))
+  (lib (name "card_edge_connector_msx")(type "KiCad")(uri "C:/Users/ykp74_surface/Documents/KiCad/Lib_add/card_edge_connector_msx.kicad_sym")(options "")(descr ""))
 )
