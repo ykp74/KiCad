@@ -1,5 +1,5 @@
 (fp_lib_table
   (version 7)
-  (lib (name "project3")(type "KiCad")(uri "/Users/ykp74/Documents/KiCad/project3")(options "")(descr ""))
-  (lib (name "Lib_add")(type "KiCad")(uri "/Users/ykp74/Documents/KiCad/Lib_add")(options "")(descr ""))
+  (lib (name "project3")(type "KiCad")(uri "C:/Users/ykp74_surface/Documents/KiCad/project3")(options "")(descr ""))
+  (lib (name "Lib_add")(type "KiCad")(uri "C:/Users/ykp74_surface/Documents/KiCad/Lib_add")(options "")(descr ""))
 )
