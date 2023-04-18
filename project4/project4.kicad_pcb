@@ -5,6 +5,11 @@
   )
 
   (paper "A4")
+  (title_block
+    (date "2023-04-18")
+    (rev "1.5")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
