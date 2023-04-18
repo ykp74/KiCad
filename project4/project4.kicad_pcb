@@ -3469,7 +3469,7 @@
       (effects (font (size 0.9 0.6) (thickness 0.125)) (justify left top))
     (stroke (width 0.15) (type solid))  )
   (gr_text_box "KONAMI4 Only"
-    (start 100.227269 92.075) (end 108.05273 94.320341) (layer "F.SilkS") (tstamp 6fd31cea-faca-47e0-8a3a-0ffe8ee40ab1)
+    (start 99.90977 92.075) (end 108.370231 94.320341) (layer "F.SilkS") (tstamp 6fd31cea-faca-47e0-8a3a-0ffe8ee40ab1)
       (effects (font (size 0.9 0.6) (thickness 0.125)) (justify left top))
     (stroke (width 0.15) (type solid))  )
   (gr_text_box "Wb"
@@ -3481,7 +3481,7 @@
       (effects (font (size 0.9 0.6) (thickness 0.125)) (justify left top))
     (stroke (width 0.15) (type solid))  )
   (gr_text_box "1) ASCII 8K\n2) KONAMI5 8K\n3) KONAMI4 8K"
-    (start 91.01977 78.399659) (end 100.750231 83.82) (layer "F.SilkS") (tstamp f79f5770-fbc2-49f0-b314-cf54f033206e)
+    (start 89.964539 78.399659) (end 100.33 83.82) (layer "F.SilkS") (tstamp f79f5770-fbc2-49f0-b314-cf54f033206e)
       (effects (font (size 1 0.7) (thickness 0.125)) (justify left top))
     (stroke (width 0.15) (type solid))  )
 
