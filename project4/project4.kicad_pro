@@ -48,7 +48,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
         "clearance|119040523|141940789|719a0cf0-16d3-4942-b736-b22cf947d8d4|cfff6dc0-f9fe-4171-9313-552a47196412",
         "clearance|121579461|141941349|01ded0c0-8a27-4731-a161-9649447b613c|cfff6dc0-f9fe-4171-9313-552a47196412",
@@ -170,8 +176,15 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
