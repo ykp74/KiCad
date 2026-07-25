@@ -28378,7 +28378,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff4d6201-2ca3-4653-97b6-f59197d1820c")
 		(property "Reference" "C4"
-			(at 283.21 50.8889 0)
+			(at 283.21 50.2538 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28388,8 +28388,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
-			(at 283.21 53.4289 0)
+		(property "Value" "100uF"
+			(at 283.21 52.7938 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
