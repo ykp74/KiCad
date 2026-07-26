@@ -746,7 +746,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "ouput/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
